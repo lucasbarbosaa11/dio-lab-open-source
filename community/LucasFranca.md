@@ -12,7 +12,7 @@
 
 📫 Conecte-se comigo:
 
-\- \[LinkedIn] (https://www.linkedin.com/in/lucas-barbosa-48ba0b1b4/)
+\- \[LinkedIn](https://www.linkedin.com/in/lucas-barbosa-48ba0b1b4/)
 
 \- \[GitHub](https://github.com/Lukketzz)
 
